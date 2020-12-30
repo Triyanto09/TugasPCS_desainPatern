@@ -29,7 +29,7 @@ class LoginFragment : Fragment() {
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
+        super.onActivityCreated(savedInstanceState)
         init()
         observe()
     }

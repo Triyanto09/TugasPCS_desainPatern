@@ -5,7 +5,7 @@
     <data>
         <variable
             name="viewModel"
-            type="com.appserba0763.app.ui.auth.AuthViewModel"/>
+            type="com.appserba0763.app.ui.auth.AuthViewModel" />
     </data>
 
     <FrameLayout
